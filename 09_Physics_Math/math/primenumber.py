@@ -9,3 +9,5 @@ else:
             break
     else:
         print("Prime")
+
+
